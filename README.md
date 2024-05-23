@@ -1,5 +1,4 @@
-## Hi there 👋
-
+#  ![Cover](https://github.com/RossAlex0/RossAlex0/blob/main/bannGitHub.jpg.png)
 <!--
 **RossAlex0/RossAlex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
