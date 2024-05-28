@@ -1,4 +1,5 @@
 #  ![Cover](https://github.com/RossAlex0/RossAlex0/blob/main/bannGitHub.jpg.png)
+# ![Cover](https://www.codewars.com/users/RossAlex/badges/micro)
 
 🔭 About me:
 
