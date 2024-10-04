@@ -12,7 +12,7 @@
 
 <div width="1000" >
   <a href="https://github.com/RossAlex0/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossAlex0&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossAlex0&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5&hide=HTML" alt="Top Langs" />
   </a>
   <a href="https://github.com/RossAlex0/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=RossAlex0&theme=aura_dark&hide=stars,issues" alt="GitHub Stats" width="400" height="220" align="right" />
