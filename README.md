@@ -29,7 +29,7 @@
 # <p/>
 
 <p align="center">
-  <a href="https://rossignol-alex.fr" target="_blank">
+  <a href="https://www.alex-rossignol.fr" target="_blank">
     <img src="https://github.com/RossAlex0/Portfolio/blob/main/public/logo.svg" />
   </a>
 </p>
