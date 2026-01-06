@@ -1,10 +1,4 @@
 ![Cover](https://github.com/RossAlex0/RossAlex0/blob/main/bannGitHub.jpg.png)  
-
-# <p/>
-
- <p align="center">
-  <img src="https://www.codewars.com/users/RossAlex/badges/micro"/>
- </p> 
  
 # <p/>
 
