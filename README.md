@@ -1,20 +1,38 @@
-#  ![Cover](https://github.com/RossAlex0/RossAlex0/blob/main/bannGitHub.jpg.png)  ![Cover](https://www.codewars.com/users/RossAlex/badges/micro)
+![Cover](https://github.com/RossAlex0/RossAlex0/blob/main/bannGitHub.jpg.png)  
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+# <p/>
 
-<div width="1000" >
-  <a href="https://github.com/RossAlex0/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossAlex0&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5&hide=HTML" alt="Top Langs" />
+ <p align="center">
+  <img src="https://www.codewars.com/users/RossAlex/badges/micro"/>
+ </p> 
+ 
+# <p/>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RossAlex0&layout=donut&theme=aura_dark&hide=HTML"/>
+</p>
+
+# <p/>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/react/ffffff" height="40" hspace="8"/>
+    <img src="https://cdn.simpleicons.org/graphql/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/gitlab/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/directus/ffffff" height="40" hspace="8"/>
+</p>
+
+# <p/>
+
+<p align="center">
+  <a href="https://rossignol-alex.fr" target="_blank">
+    <img src="https://github.com/RossAlex0/Portfolio/blob/main/public/logo.svg" />
   </a>
-  <a href="https://github.com/RossAlex0/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RossAlex0&theme=aura_dark&hide=stars,issues" alt="GitHub Stats" width="400" height="220" align="right" />
-  </a>
-</div>
-
-
-
-
+</p>
 
 
 
