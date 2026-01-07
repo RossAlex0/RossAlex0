@@ -9,15 +9,15 @@
 # <p/>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/typescript/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/react/ffffff" height="40" hspace="8"/>
-    <img src="https://cdn.simpleicons.org/graphql/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/gitlab/ffffff" height="40" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/directus/ffffff" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/typescript/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/react/808080" height="40" hspace="8"/>
+    <img src="https://cdn.simpleicons.org/graphql/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/postgresql/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/docker/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/gitlab/808080" height="40" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/directus/808080" height="40" hspace="8"/>
 </p>
 
 # <p/>
